@@ -13,10 +13,12 @@
 * git clone ~(git hub上のアドレスをコピー)
 * git checkout -b ~ …ブランチ作成
 
-* C:\\Program Files\\Git\\bin\\bash.exe
-    …ターミナルをGitへ変更する際のファイルパス
-* 
-
+### VSCodeのGit連携設定
+1. usersetting(Ctrl + ,) → *terminal.integrated.shellArgs.windows*の項目へ
+2. []内に以下の内容を書き込む
+    >"/k",
+    >"C:\\Program Files\\Git\\bin\\bash.exe"
+    
 ### Git Hub操作系コマンド(エイリアス後)
 * git hub browse
 * 
