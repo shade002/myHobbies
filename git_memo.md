@@ -13,6 +13,10 @@
 * git clone ~(git hub上のアドレスをコピー)
 * git checkout -b ~ …ブランチ作成
 
+* C:\\Program Files\\Git\\bin\\bash.exe
+    …ターミナルをGitへ変更する際のファイルパス
+* 
+
 ### Git Hub操作系コマンド(エイリアス後)
 * git hub browse
 * 
