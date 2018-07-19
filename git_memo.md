@@ -1,4 +1,4 @@
-## 基本的なコマンド(コマンド準拠)
+## 基本的なコマンド
 
 * git init
 * git config --global user.email ~
@@ -16,11 +16,11 @@
 ### VSCodeのGit連携設定
 1. usersetting(Ctrl + ,) → *terminal.integrated.shellArgs.windows*の項目へ
 2. []内に以下の内容を書き込む
-    >"/k",
+    >`"/k",`
     >
-    >"C:\\Program Files\\Git\\bin\\bash.exe"
+    >`"C:\\Program Files\\Git\\bin\\bash.exe"`
     
-### Git Hub操作系コマンド(エイリアス後)
+### Git Hub操作系コマンド
 * git hub browse
 * 
 
@@ -28,11 +28,11 @@
 
 * .gitignoreファイル
     …作成しておくとOSの設定ファイルなどの余計なファイルをクローンなどの際に除外することができる。初期は以下の内容を書き込む。(※作成するときはgit hubからが楽)
-    > `# ファイル .DS_Store`
+    >`# ファイル .DS_Store`
     > 
-    > `# ディレクトリ /tmp`
+    >`# ディレクトリ /tmp`
     > 
-    > `# ワイルドカード *.log`
+    >`# ワイルドカード *.log`
 * issue/Milestone
     …中期的目標、問題点の共有。マークダウン使用可能。→様々なファイル送信可能。
 * Pull Request
