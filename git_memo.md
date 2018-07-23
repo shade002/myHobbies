@@ -74,16 +74,16 @@
 
 ### コミュニケーション関連
 
-* コミットメッセージ書き方 → [git fetchの理解からgit mergeとpullの役割 - Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
+* コミットメッセージ書き方 → [git fetchの理解からgit mergeとpullの役割 - Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364){:target="_blank"}
 
-* マークダウン記法について → [Markdown記法 チートシート - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+* マークダウン記法について → [Markdown記法 チートシート - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d){:target="_blank"}
 
-* LGTMについて → [LGTM! チャットやGitHubでよく見る英略語ってこんな意味](https://blog.sixapart.jp/2016-10/lgtm-github.html)
+* LGTMについて → [LGTM! チャットやGitHubでよく見る英略語ってこんな意味](https://blog.sixapart.jp/2016-10/lgtm-github.html){:target="_blank"}
 
 ### ツール関連
 
 * SHIFT + / …Git hubショートカット
-* Gist …[Gist](https://koskywalker.com/github-gist-use/#gist-3)
+* Gist …[GitHub Gistの使い方：コードをWordPressに埋め込み共有する方法](https://koskywalker.com/github-gist-use/#gist-3){:target="_blank"}
 * ブックマークレット …要検索
 * ターミナル関連ツール
     * 「gibo」 …gitignoreファイルの自動生成。
