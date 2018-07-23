@@ -74,11 +74,11 @@
 
 ### コミュニケーション関連
 
-* コミットメッセージ書き方 → [Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
+* コミットメッセージ書き方 → [git fetchの理解からgit mergeとpullの役割 - Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
 
-* マークダウン記法について → [Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+* マークダウン記法について → [Markdown記法 チートシート - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
-* LGTMについて → [LGTM](https://blog.sixapart.jp/2016-10/lgtm-github.html)
+* LGTMについて → [LGTM! チャットやGitHubでよく見る英略語ってこんな意味](https://blog.sixapart.jp/2016-10/lgtm-github.html)
 
 ### ツール関連
 
