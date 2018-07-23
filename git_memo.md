@@ -13,6 +13,10 @@
 * git clone ~(git hub上のアドレスをコピー)
 * git checkout -b ~ …ブランチ作成
 
+* git checkoutについて …このコマンドには二つの機能がある。
+    1. パスを指定した場合 …指定されたパスのファイルやブランチ、コミットをローカルリポジトリに反映させる。
+    2. ブランチやコミットハッシュ値を指定した場合 …Gitが参照するファイルを表すHEADを指定されたファイルに付け替える。
+ 
 ### VSCodeのGit連携設定
 1. usersetting(Ctrl + ,) → *terminal.integrated.shellArgs.windows*の項目へ
 2. []内に以下の内容を書き込む
