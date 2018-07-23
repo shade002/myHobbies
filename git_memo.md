@@ -10,7 +10,7 @@
 * git commit -m "~"
 * git push origin master
 * git pull origin master
-* git clone ~(git hub上のアドレスをコピー)
+* git clone ~(git hub上のアドレスを貼り付け)
 * git checkout -b ~ …ブランチ作成
 
 * git checkoutについて …このコマンドには二つの機能がある。
