@@ -70,9 +70,24 @@
 * コミットの粒度/コミットメッセージ
     …１機能を目安にコミットを行うよう心がけること。/簡潔かつ明瞭に残す。
 
+## その他
 
-## MarkDown記法
+### コミュニケーション関連
 
-詳しくは → [Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+* コミットメッセージ書き方 → [Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
 
-LGTMについて → [LGTM](https://blog.sixapart.jp/2016-10/lgtm-github.html)
+* マークダウン記法について → [Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+* LGTMについて → [LGTM](https://blog.sixapart.jp/2016-10/lgtm-github.html)
+
+### ツール関連
+
+* SHIFT + / …Git hubショートカット
+* Gist …[Gist](https://koskywalker.com/github-gist-use/#gist-3)
+* ブックマークレット …要検索
+* ターミナル関連ツール
+    * 「gibo」 …gitignoreファイルの自動生成。
+    * 「tig」 …ターミナルでのGUI教科ツール。
+    * 「hub」 …Git hub上で行う操作をコマンドからでも行えるようにする。
+
+* 「?w=1」 …diffの表示画面で左のパラメータをURLに渡すと、変更したコードのみが表示されるようになる。
