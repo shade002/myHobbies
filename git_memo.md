@@ -12,6 +12,7 @@
 * git pull origin master
 * git clone ~(git hub上のアドレスを貼り付け)
 * git checkout -b ~ …ブランチ作成
+* git branch --contains=HEAD …現在のブランチ取得(HEADは省略可)
 
 * git checkoutについて …このコマンドには二つの機能がある。
     1. パスを指定した場合 …指定されたパスのファイルやブランチ、コミットをローカルリポジトリに反映させる。
