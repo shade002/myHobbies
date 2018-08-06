@@ -13,6 +13,7 @@
 * git clone ~(git hub上のアドレスを貼り付け)
 * git checkout -b ~ …ブランチ作成
 * git branch --contains=HEAD …現在のブランチ取得(HEADは省略可)
+* git mv ~ ~ …Git管理されているファイルの名称変更※Git管理されている場合は必ずこのコマンドを用いて名称変更しなければならない
 
 * git checkoutについて …このコマンドには二つの機能がある。
     1. パスを指定した場合 …指定されたパスのファイルやブランチ、コミットをローカルリポジトリに反映させる。
@@ -82,6 +83,8 @@
 * マークダウン記法について → [Markdown記法 チートシート - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 * LGTMについて → [LGTM! チャットやGitHubでよく見る英略語ってこんな意味](https://blog.sixapart.jp/2016-10/lgtm-github.html)
+
+* コンフリクトしてpushできない場合 → [git pushがrejectされたときの解決方法URLまとめ - Qiita](https://qiita.com/kaw/items/767deb773223fe013ada)
 
 ### ツール関連
 
