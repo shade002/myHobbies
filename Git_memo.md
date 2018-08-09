@@ -76,6 +76,10 @@
 
 ## その他
 
+### Git管理をやめる
+
+* rm -rf .git/…gitファイルの削除を行う
+
 ### コミュニケーション関連
 
 * コミットメッセージ書き方 → [git fetchの理解からgit mergeとpullの役割 - Qiita](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)
